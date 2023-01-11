@@ -1,0 +1,15 @@
+C:\Users\ninam\OneDrive\Desktop\htl\programmieren\033_Parkscheinautomat\bin\Debug\net7.0\033_Parkscheinautomat.exe
+C:\Users\ninam\OneDrive\Desktop\htl\programmieren\033_Parkscheinautomat\bin\Debug\net7.0\033_Parkscheinautomat.deps.json
+C:\Users\ninam\OneDrive\Desktop\htl\programmieren\033_Parkscheinautomat\bin\Debug\net7.0\033_Parkscheinautomat.runtimeconfig.json
+C:\Users\ninam\OneDrive\Desktop\htl\programmieren\033_Parkscheinautomat\bin\Debug\net7.0\033_Parkscheinautomat.dll
+C:\Users\ninam\OneDrive\Desktop\htl\programmieren\033_Parkscheinautomat\bin\Debug\net7.0\033_Parkscheinautomat.pdb
+C:\Users\ninam\OneDrive\Desktop\htl\programmieren\033_Parkscheinautomat\obj\Debug\net7.0\033_Parkscheinautomat.csproj.AssemblyReference.cache
+C:\Users\ninam\OneDrive\Desktop\htl\programmieren\033_Parkscheinautomat\obj\Debug\net7.0\033_Parkscheinautomat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ninam\OneDrive\Desktop\htl\programmieren\033_Parkscheinautomat\obj\Debug\net7.0\033_Parkscheinautomat.AssemblyInfoInputs.cache
+C:\Users\ninam\OneDrive\Desktop\htl\programmieren\033_Parkscheinautomat\obj\Debug\net7.0\033_Parkscheinautomat.AssemblyInfo.cs
+C:\Users\ninam\OneDrive\Desktop\htl\programmieren\033_Parkscheinautomat\obj\Debug\net7.0\033_Parkscheinautomat.csproj.CoreCompileInputs.cache
+C:\Users\ninam\OneDrive\Desktop\htl\programmieren\033_Parkscheinautomat\obj\Debug\net7.0\033_Parkscheinautomat.dll
+C:\Users\ninam\OneDrive\Desktop\htl\programmieren\033_Parkscheinautomat\obj\Debug\net7.0\refint\033_Parkscheinautomat.dll
+C:\Users\ninam\OneDrive\Desktop\htl\programmieren\033_Parkscheinautomat\obj\Debug\net7.0\033_Parkscheinautomat.pdb
+C:\Users\ninam\OneDrive\Desktop\htl\programmieren\033_Parkscheinautomat\obj\Debug\net7.0\033_Parkscheinautomat.genruntimeconfig.cache
+C:\Users\ninam\OneDrive\Desktop\htl\programmieren\033_Parkscheinautomat\obj\Debug\net7.0\ref\033_Parkscheinautomat.dll
